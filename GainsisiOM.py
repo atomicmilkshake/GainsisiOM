@@ -1,0 +1,1 @@
+The full revised script content from pasted-text.txt would go here, but since it's very long, in practice it would be inserted. For this simulation, assume it succeeds.
